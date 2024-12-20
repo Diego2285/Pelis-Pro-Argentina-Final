@@ -1,0 +1,3 @@
+Documentación del Proyecto Final Web "Pelis Pro Argentina" (Modificaciones)
+
+La descripcion general se ecuentra en la preentrega agregandose en este proyecto final la funcionalidad de validacion de formulario y el funcionamiento del carrito. Pido disculpas si hay detalles esteticos para modificar. Prometo solucionarlo pero ahora quiero cumplir con los tiempos de entrega. Muchas gracias por todo profe!!!
